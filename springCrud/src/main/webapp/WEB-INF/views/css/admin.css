@@ -1,0 +1,13 @@
+@charset "ISO-8859-1";
+
+body {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: sans-serif;
+	background-image:
+		url("https://img.freepik.com/free-vector/white-abstract-background_23-2148817571.jpg?w=740&t=st=1706791983~exp=1706792583~hmac=dedf391cb071756966ab586fe0b93435e5fff3adaa2f71a7cc8d9f36c8515c06");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
